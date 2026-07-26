@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhinaypandey05/Leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Abhinaypandey05/Leetcodeproblems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
